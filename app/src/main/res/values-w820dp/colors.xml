@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_background">#3621f513</color>
+    <color name="game_title">#ff0e1b09</color>
+    <color name="main_screen_btn_txt">#ff001802</color>
+    <color name="main_screen_btn_bgrnd">#620d9d1e</color>
+    <color name="major_lines">#fff8f5e3</color>
+    <color name="game_background">#ffdfdccb</color>
+    <color name="minor_lines">#bbb7ac</color>
+    <color name="unedited_numbers">#ff16ad32</color>
+    <color name="cancel_color">#33fcfe31</color>
+</resources>

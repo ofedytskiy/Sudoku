@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+
+    <string name="title_section1">Головне меню</string>
+    <string name="title_section2">Параметри</string>
+    <string name="title_section3">Вихід</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example"></string>
+
+    <string name="action_settings">Параметри</string>
+
+
+    <string name="main_screen_title">СУДОКУ</string>
+    <string name="continue_btn">ПРОДОВЖИТИ</string>
+    <string name="new_game_btn">НОВА ІГРА</string>
+    <string name="exit_btn">ВИЙТИ</string>
+
+    <string name="new_game_title">Рівень складності</string>
+    <string name="easy_label">Легкий</string>
+    <string name="medium_label">Середній</string>
+    <string name="hard_label">Важкий</string>
+
+    <string name="dialog_title">Доступні ходи</string>
+    <string name="alert_btn_OK">OK</string>
+    <string name="keypad_title">Keypad</string>
+    <string name="cancel_btn">Очистити</string>
+    <string name="no_moves">Доступних ходів немає!</string>
+    <string name="alert_title">Вітання!</string>
+    <string name="alert_text">Ви пройшли рівень</string>
+    <string name="alert_key_ok">OK</string>
+    <string name="settings_theme">Вигляд</string>
+    <string name="checkbox_theme">Синій фон</string>
+
+
+
+
+</resources>
